@@ -28,3 +28,4 @@ console.log (funcao01 (arr))
 //                                                                                 : matriz[i][j] = 0; mesma coisa do outro, ele vai estar fazendo um loop com cada numero e o que a matriz ira ter se vão ser 1,2,3,4,5 colchetes e 5 numeros, ele irá comparar com o valor que esta na matriz
 //                                                                                 : return matriz; aqui ele vai indicar como um valor da função tem que retornar
 //                                                                                 : O RESTO DE CONSOLE.LOG QUE ESTÁ ALI SÃO OS EXEMPLOS QUE MEU PAI EXPLICOU PRA MIM
+//  const arr = [[1, 2, 5],[3, 4, 7],[3, 4, 7]] aqui esta representando os loops que a matriz teve
